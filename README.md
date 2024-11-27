@@ -152,8 +152,6 @@ The project creates a simulated network environment with the following elements:
 ## Contributors
 
 - **Rayane Oulad** - Configuration & Documentation
-- **Stephane Paris** - Server Roles & Documentation
-- **Nidhi Tyagi** - Monitoring & Troubleshooting
 
 ---
 
